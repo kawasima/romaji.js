@@ -11,3 +11,5 @@ assert.equal(kana2romaji.kana2romaji("オオコウチ"), "okochi");
 assert.equal(kana2romaji.kana2romaji("ジェームスディーン"), "jiemusudein");
 assert.equal(kana2romaji.kana2romaji("マンギョンボンゴウ"), "mangyombongo");
 assert.equal(kana2romaji.kana2romaji("ミャニュフェスチョ"), "myanyufuesucho");
+assert.equal(kana2romaji.kana2romaji("マッモト"), "mammoto");
+assert.equal(kana2romaji.kana2romaji("マッイ"), "maxtui");
